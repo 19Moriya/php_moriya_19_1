@@ -12,7 +12,7 @@ td {width: 300px;}
 </head>
 <body>
 <h1>アンケート</h1>
-<form name="post.php" action="write.php" method="post">
+<form name="index.php" action="write.php" method="post">
 <table>
 <tr><th>氏名</th>
 <td><input type="text" name="name" id="name" size="40" maxlength="20" placeholder="山田太郎" autofocus required></td></tr>
